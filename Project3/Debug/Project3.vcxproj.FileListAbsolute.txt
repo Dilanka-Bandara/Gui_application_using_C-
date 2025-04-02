@@ -1,0 +1,63 @@
+D:\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+D:\Project3\Project3\Debug\Project3.MyForm.resources
+D:\Project3\Project3\Debug\Project3.snackdrink.resources
+D:\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+D:\Project3\Project3\Debug\Project3.drinks.resources
+D:\Project3\Project3\Debug\Project3.snack.resources
+D:\Project3\Project3\Debug\Project3.calculation1.resources
+D:\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.calculation1.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.drinks.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.MyForm.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.snack.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.snackdrink.resources
+C:\Users\HP\Desktop\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.calculation1.resources
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.drinks.resources
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.MyForm.resources
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.snack.resources
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.snackdrink.resources
+C:\Users\HP\Documents\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.calculation1.resources
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.drinks.resources
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.MyForm.resources
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.snack.resources
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.snackdrink.resources
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\DILANKA\Desktop\Project3\Project3\Debug\Project3.NextPage.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.calculation1.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.drinks.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.MyForm.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.NextPage.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.snack.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.snackdrink.resources
+C:\Users\HP\Videos\Project3 ver 2.0\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.calculation1.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.drinks.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.MyForm.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.NextPage.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.snack.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.snackdrink.resources
+C:\Users\DILANKA\Downloads\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.calculation1.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.calculation2.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.drinks.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.MyForm.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.NextPage.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.snack.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.snackdrink.resources
+C:\Users\DILANKA\Desktop\lasttttt\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
